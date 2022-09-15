@@ -1,5 +1,5 @@
 # Test_amazon
-> Test case for Amazon
+> This test case is used to fetch some deatil from Amazon.com 
 
 ## Build Setup
 ```bash
@@ -8,6 +8,10 @@ pip install selenium
 
 #install PyTest
 pip install pytest
+
+#install Pytest-html
+pip install pytest-html
+
 
 ```
 
