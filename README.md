@@ -25,7 +25,7 @@ pytest -s -rA
 
 ```
 
-# To generate HTML report
+## To generate HTML report
 > pytest -s -rA --html=Report.html
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/107984615/190379128-6eac58a5-aeda-48e7-87c5-c74ed0863006.png)
